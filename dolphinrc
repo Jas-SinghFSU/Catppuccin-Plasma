@@ -1,0 +1,46 @@
+MenuBar=Disabled
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[FileDialogSize]
+1920x1080 screen: Height=593
+1920x1080 screen: Width=977
+
+[General]
+ShowSelectionToggle=false
+Version=202
+ViewPropsTimestamp=2024,3,15,20,19,30.113
+
+[IconsMode]
+IconSize=112
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+Recent Files[$e]=Plex Media Player.png,file:$HOME/Downloads/PNG/Plex Media Player.png
+Recent URLs[$e]=file:$HOME/Downloads/PNG/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+1920x1080 screen: Height=597
+1920x1080 screen: Width=472
+2880x1620 screen: Height=762
+2880x1620 screen: Width=628
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[PreviewSettings]
+Plugins=imagethumbnail,jpegthumbnail,svgthumbnail
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[ViewPropertiesDialog]
+2880x1620 screen: Height=446
+2880x1620 screen: Width=540

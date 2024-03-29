@@ -1,0 +1,1 @@
+opaque needs 1px edges to fit outline when compositing is off
