@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://i.imgur.com/wPJOZBW.jpeg">
 </p>
-
+Note that some things like tiling are only available in KDE Plasma 5 and DO NOT work in Plasma 6. This also includes the panel widgets; everything else should work with Plasma 6.
 ## Desktop Environment
 ### Fonts
 
